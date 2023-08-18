@@ -1,0 +1,10 @@
+void on_about(GtkButton *);
+void on_concept(GtkButton *);
+void on_number(GtkButton *);
+void on_pattern(GtkButton *);
+void on_string(GtkButton *);
+void on_array(GtkButton *);
+void on_clear();
+void download(char *);
+void strhide();
+void strunhide(int);

@@ -1,0 +1,6 @@
+A data type is a classification of data which tells the compiler or interpreter how the programmer intends to use the data.
+
+There are three types of data types in c
+1) Primitive Datatype
+2) Derived Datatype
+3) Userdefined Datatype

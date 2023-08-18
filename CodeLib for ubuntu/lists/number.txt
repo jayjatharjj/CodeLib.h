@@ -1,0 +1,37 @@
+1. Abundant Number
+2. Armstrong Number
+3. Factorial
+4. Deficient Number
+5. Palindrome Number
+6. Perfect Number
+7. Prime Number
+8. Reverse Number
+9. Strong Number
+10. Niven Number
+11. Duck Number
+12. Disarium Number
+13. Automorphic Number
+14. Composite Number
+15. Sum Of Factors
+16. Squareroot
+17. Digit Count
+18. Maximum Digit
+19. Minimum Digit
+20. Greatest Common Divisor
+21. Least Common multiple
+22. Highest Common Factor
+23. Sum Of Digits
+24. Power
+25. Leap Year
+26. Table
+27. Even
+28. Odd
+29. Spy Number
+30. Product Of Digits
+31. Fibonacci Series
+32. Digit Search
+33. Bell Number
+34. Amicable Number
+35. Anagram Number
+36. Even Digit Sum
+37. Odd Digit Sum

@@ -1,0 +1,42 @@
+1. Reverse Array
+2. Sort Array Ascending
+3. Sort Array Descending
+4. Find Number In The Array
+5. Delete Number In The Array
+6. Find Nth Minimum Value In Array
+7. FInd Nth Maximum Value In Array
+8. Delete Odd Numbers From Array
+9. Delete Even Numbers From Array
+10. Find Peak Element
+11. First Non Repeated Element In Array
+12. Find Minimum Element In Array
+13. Find Occurrence Of Element In Array
+14. Find Max SubArray Sum
+15. Move All Negative To One Size Of Array
+16. Cyclically Rotate An Array By One
+17. Count Pairs With Given Sum
+18. Count Of Duplicate Elements
+19. Sum Of All Even Numbers In Array
+20. Sum Of All Odd Number In Array
+21. Average Of All Elements In An Array
+22. Product Of Array Elements
+23. Replace Elements With Its Sum Of Its Digits
+24. Replace Elements With Its Square
+25. Replace Elements With Its Cube
+26. Sum Of All Elements Having Odd Index
+27. Sum Of All Elements Having Even Index		
+28. Grouping OF Prime Numbers		  	
+29. Grouping OF Composite Number
+30. Grouping OF Perfect Number
+31. Grouping OF Palimdrome Number
+32. Replace Elements With Its Reverse Number
+33. Replace With Sum Of Digit
+34. Grouping OF Duck Number
+35. Grouping OF Automorphic Number
+36. Grouping OF Harshad Number
+37. Grouping OF Armstrong Number
+38. Grouping OF Abundant Number
+39. Grouping OF Spy Number
+40. Grouping OF Strong Number
+41. Grouping OF Disarium Number
+42. Grouping OF Deficient Number

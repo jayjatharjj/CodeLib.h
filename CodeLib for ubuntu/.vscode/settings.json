@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "gtkx.h": "c",
+        "mystring.h": "c"
+    }
+}

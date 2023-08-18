@@ -1,0 +1,45 @@
+1. First Repeated Character
+2. String Is Alpha
+3. String Is Aphanumeric
+4. String Is Only Digit
+5. Palindrome String
+6. Larget Ascii Character
+7. String Length
+8. String Reverse
+9. Count Of Alphabet
+10. Count Of Digit
+11. To Lowercase
+12. To Uppercase
+13. To Togglecase
+14. String Copy
+15. Consonent Count
+16. Vowel Count
+17. Lowercase Count
+18. Uppercase Count
+19. Delete Duplicate
+20. Word'S Character Reverse
+21. Remove Similar Character
+22. Remove Space From String
+23. Accending String Sort
+24. Decending String Sort
+25. Get Space Count
+26. Special Character Count
+27. String Title
+28. String Trim
+29. Word Capitalise
+30. Get Word Count
+31. Reverse String By Word
+32. Count Of Occurance
+33. First Occurance
+34. Last Occurance
+35. String Concat
+36. String Compare
+37. String Compare Ignorecase
+38. Anagram String
+39. String Reverse Upto N
+40. Concat Upto Space
+41. Reverse Character Find
+42. Reverse String Between Range
+43. Concat Upto N
+44. Replace Character From String
+45. FInd Character At Position

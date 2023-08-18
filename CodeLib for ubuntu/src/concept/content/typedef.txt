@@ -1,0 +1,39 @@
+/*
+typedef :- aliases or Second Name;
+        - If we give the Name of Structure is long then we give the another small name for that structure.
+
+*/
+
+#include<stdio.h>
+typedef struct Employee{
+
+        int empId;
+        char empName[20];
+        float sal;
+
+}Emp;
+void main(){
+
+        Emp emp1 = {1,"Jeevan",90.00};
+
+}
+
+
+/*
+typedef :-
+
+*/
+
+#include<stdio.h>
+struct Employee{
+        int empId;
+        char empName[20];
+        float sal;
+
+};
+
+void main(){
+
+        Employee = {1,"Jeevan",90.00};  //Error : ‘Employee’ undeclared (first use in this function)
+
+}

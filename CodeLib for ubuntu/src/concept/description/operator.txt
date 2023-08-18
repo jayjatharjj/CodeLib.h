@@ -1,0 +1,8 @@
+An operator is a symbol that tells the compiler to perform specific mathematical or logical functions. C language is rich in built-in operators and provides the following types of operators −
+
+I)    Unary Operators.
+II)   Arithmetic Operators
+III)  Assignment Operators.
+IV)   Comparison Operators
+V)    Logical Operators.
+VI)   Bitwise Operators.

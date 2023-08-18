@@ -1,0 +1,7 @@
+The compilation and execution process of C can be divided in to multiple steps:
+
+Preprocessing
+Compilation
+Assembly
+Linking
+Loading

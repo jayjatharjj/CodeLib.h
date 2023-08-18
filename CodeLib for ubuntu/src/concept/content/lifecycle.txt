@@ -1,0 +1,46 @@
+LifeCycle Of C
+
+
+
+		C program
+		    |	
+	            |
+	       Preprocessor
+                    |
+  		    |
+    	   Expanded source Code     		    
+	            | 			
+		    |
+	         Compiler
+		    |		  
+		    |
+	       Assembly Code
+                    |
+                    |
+		 assembler 
+ 		    |
+ 		    |
+                Object Code
+ 		    |
+ 		    |    
+    		  Linker
+        	    |
+	            |
+              Executable Code 
+	            | 
+                    |
+		  Loader
+		    |
+  		    |
+ 		Execution
+
+Preprocessing - Using a Preprocessor program to convert C source code in expanded source code. "#includes" and "#defines" statements will be processed and replaced actually source codes in this step.
+
+Compilation - Using a Compiler program to convert C expanded source to assembly source code.
+
+Assembly - Using a Assembler program to convert assembly source code to object code.
+
+
+Linking - Using a Linker program to convert object code to executable code. Multiple units of object codes are linked to together in this step.
+
+Loading - Using a Loader program to load the executable code into CPU for execution.

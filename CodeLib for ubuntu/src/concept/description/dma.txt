@@ -1,0 +1,1 @@
+C allows programmer to allocate memory dynamically i.e. during run time and this process is called dynamic memory allocation. By allocating memory dynamically, we can use only the amount of memory required for us.

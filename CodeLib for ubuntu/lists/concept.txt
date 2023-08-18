@@ -1,0 +1,19 @@
+1. Introduction
+2. Datatypes
+3. Operators
+4. Statements
+5. Loops
+6. Arrays
+7. Pointers
+8. Relation between array and pointer
+9. Functions
+10. String
+11. Storage class
+12. Dynamic memory allocation
+13. Structure
+14. Union
+15. Enumeration
+16. Typedef and #define
+17. File handling
+18. Preprocessor directives
+19. Lifecycle
